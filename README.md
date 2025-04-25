@@ -108,8 +108,7 @@
 
   <main>
     <h2>How To Goon, Edge And Whatever!</h2>
-    <p>This page draws inspiration from the sleek design of guns.lol, featuring a dark theme with neon accents, a clean layout, and a minimalist aesthetic.</p>
-    <button class="btn">Get Started</button>
+    <p>To Goon, you need to masterbate non stop till you cum (porn vid  will help!!), Next How To Edge, you do the same thing but before you cum you stop masterbating</p>
   </main>
 
   <footer>
