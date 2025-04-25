@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Tutorial on How to Goon,Edge,Etc>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -70,23 +70,23 @@
 <body>
   <div class="container">
     <div class="script-box">
-      <strong>Tamhub:</strong>
-      <code>loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarix/tamhub/main/bettertamhub.lua"))()</code>
+      <strong>How To Goon:</strong>
+      <code>Gooning is when you masterbate then start to cum</code>
     </div>
 
     <div class="script-box">
-      <strong>Infinite Yield:</strong>
-      <code>loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()</code>
+      <strong>How To Edge:</strong>
+      <code>Same thing as gooning but instead you dont cum</code>
     </div>
 
     <div class="script-box">
-      <strong>UNC Test:</strong>
-      <code>loadstring(game:HttpGet('https://github.com/ltseverydayyou/uuuuuuu/blob/main/UNC%20test?raw=true'))()</code>
+      <strong>NIGGER:</strong>
+      <code>IM A FAG NIGGA</code>
     </div>
 
     <hr />
     <h2>Something To Goon To</h2>
-    <iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/fC1a_3zKw84v" allowfullscreen></iframe>
   </div>
 </body>
 </html>
