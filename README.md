@@ -9,7 +9,7 @@
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #121212;
+      background-color: #000000;
       color: #fff;
       overflow-x: hidden;
     }
@@ -117,7 +117,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 kieran. All rights reserved.</p> 
+    <p>&copy; 2025 Gooners4Life. All rights reserved.</p> 
   </footer>
 
 </body>
