@@ -103,15 +103,11 @@
     <h1>Welcome to My Page</h1> 
   </header>
 
-  <nav>
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Contact</a>
+
   </nav>
 
   <main>
-    <h2>Modern, Minimalist, and Functional</h2>
+    <h2>How To Goon, Edge And Whatever!</h2>
     <p>This page draws inspiration from the sleek design of guns.lol, featuring a dark theme with neon accents, a clean layout, and a minimalist aesthetic.</p>
     <button class="btn">Get Started</button>
   </main>
