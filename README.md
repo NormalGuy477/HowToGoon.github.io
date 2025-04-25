@@ -108,7 +108,7 @@
   <main>
     <h2>How To Goon, Edge And Whatever!</h2>
     <p>To Goon, you need to masterbate non stop till you cum (porn vid  will help!!). 
-       Next How To Edge, you do the same thing but before you cum you stop masterbating</p>
+       Next How To Edge, you do the same thing, but before you cum you stop masterbating</p>
   </main>
 
   <footer>
