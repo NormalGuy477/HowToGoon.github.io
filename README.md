@@ -23,7 +23,7 @@
 
     / Header /
     header {
-      background: #1c1c1c;
+      background: #000000;
       padding: 20px;
       text-align: center;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -35,7 +35,7 @@
 
     / Navigation /
     nav {
-      background: #333;
+      background: #000000;
       padding: 10px;
       text-align: center;
     }
@@ -60,7 +60,7 @@
 
     / Footer /
     footer {
-      background: #1c1c1c;
+      background: #000000;
       padding: 20px;
       text-align: center;
       position: fixed;
@@ -71,7 +71,7 @@
 
     / Buttons /
     .btn {
-      background: #8e44ad;
+      background: #000000;
       color: #fff;
       padding: 10px 20px;
       border-radius: 5px;
@@ -80,7 +80,7 @@
       transition: background 0.3s;
     }
     .btn:hover {
-      background: #9b59b6;
+      background: #000000;
     }
 
     / Responsive Design */
@@ -104,11 +104,11 @@
   </header>
 
 
-  </nav>
 
   <main>
     <h2>How To Goon, Edge And Whatever!</h2>
-    <p>To Goon, you need to masterbate non stop till you cum (porn vid  will help!!), Next How To Edge, you do the same thing but before you cum you stop masterbating</p>
+    <p>To Goon, you need to masterbate non stop till you cum (porn vid  will help!!). 
+       Next How To Edge, you do the same thing but before you cum you stop masterbating</p>
   </main>
 
   <footer>
